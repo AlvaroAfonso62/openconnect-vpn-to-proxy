@@ -57,7 +57,7 @@ sudo apt install proxychains proxychains4
 #socks4 	127.0.0.1 9050
 socks5 	127.0.0.1 9052 
 ```
-*Configurado, segue o usage do proxy chains*
+*Utilização, segue o usage do proxy chains*
 ```bash
 Usage:	proxychains program_name [arguments]
 ```
